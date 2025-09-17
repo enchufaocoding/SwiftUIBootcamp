@@ -1,2 +1,2 @@
 # SwiftUIBootcamp
-Bootcamp with Projects related to swiftui development.
+Bootcamp with Projects related to swiftUI development.
