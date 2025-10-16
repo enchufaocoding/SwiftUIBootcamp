@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73219753-E68A-4C1B-9844-6A22EFB2401F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB8B4F53-DEB0-4BC4-AFEA-355A139CC8A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyLayoutBootcamp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B140A4BC-1058-40F5-AEFA-E0BE0FC4D2DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyLayoutBootcamp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "B140A4BC-1058-40F5-AEFA-E0BE0FC4D2DC - a888cdc713108f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyLayoutBootcamp.ContentView.horizontalSizeClass.getter : Swift.Optional&lt;SwiftUI.UserInterfaceSizeClass&gt;"
+                  moduleName = "AnyLayoutBootcamp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josealbertorosariocastillo/Desktop/SwiftUIBootCamp/AnyLayoutBootcamp/%3Cstdin%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "B140A4BC-1058-40F5-AEFA-E0BE0FC4D2DC - b320cb8c4f467443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyLayoutBootcamp.ContentView.init() -&gt; AnyLayoutBootcamp.ContentView"
+                  moduleName = "AnyLayoutBootcamp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josealbertorosariocastillo/Desktop/SwiftUIBootCamp/AnyLayoutBootcamp/AnyLayoutBootcamp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "B140A4BC-1058-40F5-AEFA-E0BE0FC4D2DC - c898c747b13317c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of AnyLayoutBootcamp.ContentView.init(horizontalSizeClass: SwiftUI.Environment&lt;Swift.Optional&lt;SwiftUI.UserInterfaceSizeClass&gt;&gt;) -&gt; AnyLayoutBootcamp.ContentView"
+                  moduleName = "AnyLayoutBootcamp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josealbertorosariocastillo/Desktop/SwiftUIBootCamp/AnyLayoutBootcamp/AnyLayoutBootcamp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
