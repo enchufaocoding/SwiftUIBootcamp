@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2D9C94A92E95D51700AF6072 /* AppStoreBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppStoreBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DD1DAD72EA2E096004762EC /* AppStoreBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppStoreBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2D9C94AB2E95D51700AF6072 /* AppStoreBootcamp */ = {
+		2DD1DAD92EA2E096004762EC /* AppStoreBootcamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = AppStoreBootcamp;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2D9C94A62E95D51700AF6072 /* Frameworks */ = {
+		2DD1DAD42EA2E096004762EC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2D9C94A02E95D51700AF6072 = {
+		2DD1DACE2EA2E096004762EC = {
 			isa = PBXGroup;
 			children = (
-				2D9C94AB2E95D51700AF6072 /* AppStoreBootcamp */,
-				2D9C94AA2E95D51700AF6072 /* Products */,
+				2DD1DAD92EA2E096004762EC /* AppStoreBootcamp */,
+				2DD1DAD82EA2E096004762EC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2D9C94AA2E95D51700AF6072 /* Products */ = {
+		2DD1DAD82EA2E096004762EC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2D9C94A92E95D51700AF6072 /* AppStoreBootcamp.app */,
+				2DD1DAD72EA2E096004762EC /* AppStoreBootcamp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2D9C94A82E95D51700AF6072 /* AppStoreBootcamp */ = {
+		2DD1DAD62EA2E096004762EC /* AppStoreBootcamp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D9C94B42E95D51900AF6072 /* Build configuration list for PBXNativeTarget "AppStoreBootcamp" */;
+			buildConfigurationList = 2DD1DAE22EA2E097004762EC /* Build configuration list for PBXNativeTarget "AppStoreBootcamp" */;
 			buildPhases = (
-				2D9C94A52E95D51700AF6072 /* Sources */,
-				2D9C94A62E95D51700AF6072 /* Frameworks */,
-				2D9C94A72E95D51700AF6072 /* Resources */,
+				2DD1DAD32EA2E096004762EC /* Sources */,
+				2DD1DAD42EA2E096004762EC /* Frameworks */,
+				2DD1DAD52EA2E096004762EC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2D9C94AB2E95D51700AF6072 /* AppStoreBootcamp */,
+				2DD1DAD92EA2E096004762EC /* AppStoreBootcamp */,
 			);
 			name = AppStoreBootcamp;
 			packageProductDependencies = (
 			);
 			productName = AppStoreBootcamp;
-			productReference = 2D9C94A92E95D51700AF6072 /* AppStoreBootcamp.app */;
+			productReference = 2DD1DAD72EA2E096004762EC /* AppStoreBootcamp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2D9C94A12E95D51700AF6072 /* Project object */ = {
+		2DD1DACF2EA2E096004762EC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					2D9C94A82E95D51700AF6072 = {
+					2DD1DAD62EA2E096004762EC = {
 						CreatedOnToolsVersion = 26.0;
 					};
 				};
 			};
-			buildConfigurationList = 2D9C94A42E95D51700AF6072 /* Build configuration list for PBXProject "AppStoreBootcamp" */;
+			buildConfigurationList = 2DD1DAD22EA2E096004762EC /* Build configuration list for PBXProject "AppStoreBootcamp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2D9C94A02E95D51700AF6072;
+			mainGroup = 2DD1DACE2EA2E096004762EC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2D9C94AA2E95D51700AF6072 /* Products */;
+			productRefGroup = 2DD1DAD82EA2E096004762EC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2D9C94A82E95D51700AF6072 /* AppStoreBootcamp */,
+				2DD1DAD62EA2E096004762EC /* AppStoreBootcamp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2D9C94A72E95D51700AF6072 /* Resources */ = {
+		2DD1DAD52EA2E096004762EC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2D9C94A52E95D51700AF6072 /* Sources */ = {
+		2DD1DAD32EA2E096004762EC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		2D9C94B22E95D51900AF6072 /* Debug */ = {
+		2DD1DAE02EA2E097004762EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		2D9C94B32E95D51900AF6072 /* Release */ = {
+		2DD1DAE12EA2E097004762EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		2D9C94B52E95D51900AF6072 /* Debug */ = {
+		2DD1DAE32EA2E097004762EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -278,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		2D9C94B62E95D51900AF6072 /* Release */ = {
+		2DD1DAE42EA2E097004762EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2D9C94A42E95D51700AF6072 /* Build configuration list for PBXProject "AppStoreBootcamp" */ = {
+		2DD1DAD22EA2E096004762EC /* Build configuration list for PBXProject "AppStoreBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2D9C94B22E95D51900AF6072 /* Debug */,
-				2D9C94B32E95D51900AF6072 /* Release */,
+				2DD1DAE02EA2E097004762EC /* Debug */,
+				2DD1DAE12EA2E097004762EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D9C94B42E95D51900AF6072 /* Build configuration list for PBXNativeTarget "AppStoreBootcamp" */ = {
+		2DD1DAE22EA2E097004762EC /* Build configuration list for PBXNativeTarget "AppStoreBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2D9C94B52E95D51900AF6072 /* Debug */,
-				2D9C94B62E95D51900AF6072 /* Release */,
+				2DD1DAE32EA2E097004762EC /* Debug */,
+				2DD1DAE42EA2E097004762EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2D9C94A12E95D51700AF6072 /* Project object */;
+	rootObject = 2DD1DACF2EA2E096004762EC /* Project object */;
 }

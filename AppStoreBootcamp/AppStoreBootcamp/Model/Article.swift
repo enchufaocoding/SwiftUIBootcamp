@@ -2,9 +2,8 @@
 //  Article.swift
 //  AppStoreBootcamp
 //
-//  Created by Jose Alberto Rosario Castillo on 8/10/25.
+//  Created by Jose Alberto Rosario Castillo on 17/10/25.
 //
-
 
 import SwiftUI
 
